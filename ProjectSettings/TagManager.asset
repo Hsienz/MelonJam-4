@@ -44,6 +44,9 @@ TagManager:
   - name: Ground
     uniqueID: 2726392907
     locked: 0
+  - name: Corruption
+    uniqueID: 444367657
+    locked: 0
   - name: Player
     uniqueID: 2665559341
     locked: 0
